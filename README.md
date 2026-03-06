@@ -33,7 +33,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,docker,git,github,postman,c,python,html,css" />
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,docker,git,github,postman,mysql,jpa,hibernate,c,python,html,css" />
 
 </p>
 
