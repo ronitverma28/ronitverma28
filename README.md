@@ -13,22 +13,46 @@
 
 # 👨‍💻 About Me
 
-🎓 B.Tech Computer Science Student
+🎓 B.Tech Computer Science student passionate about **Backend Development and System Design**.
 
-💻 Focused on **Backend Engineering with Java and Spring Boot**
+💻 I build backend applications using **Java, Spring Boot, and REST APIs**, focusing on scalable architecture, secure authentication, and efficient data management.
 
-⚡ Interested in:
+⚡ Areas I enjoy working on:
+- REST API design and development
+- Backend system architecture
+- Database design and optimization
+- Secure authentication using Spring Security & JWT
 
-* Scalable backend systems
-* API architecture
-* Database design
-* System design concepts
+🚀 Currently developing backend projects to strengthen my expertise in **Java backend engineering and scalable system design**.
 
-🚀 Currently improving skills in:
+---
 
-* Spring Security
-* Distributed systems
-* Advanced backend architecture
+# 🧠 Backend Engineering Focus
+
+I focus on building **scalable and secure backend systems** using modern Java backend technologies.
+
+### Backend Development
+- Java
+- Spring Boot
+- REST API Development
+- Spring Security
+- JWT Authentication
+
+### Database & Persistence
+- MySQL
+- JPA / Hibernate
+- Relational Database Design
+
+### Backend Architecture
+- Layered Architecture (Controller → Service → Repository)
+- API Design Principles
+- Backend System Design Basics
+
+### Tools & Development
+- Git & GitHub
+- Docker
+- Postman
+- Maven
 
 ---
 
