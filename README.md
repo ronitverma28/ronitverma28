@@ -61,6 +61,31 @@
 </p>
 
 ---
+### 🤝 Connect with me
+
+<p align="left">
+<a href="https://linkedin.com/in/ronitkumarverma" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="35" width="35"/>
+</a>
+&nbsp;&nbsp;
+
+<a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" height="35" width="35"/>
+</a>
+&nbsp;&nbsp;
+
+<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="35" width="35"/>
+</a>
+&nbsp;&nbsp;
+
+<a href="mailto:ronitroy22678@gmail.com">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="35" width="35"/>
+</a>
+
+</p>
+
+---
 
 # 📫 Connect With Me
 
