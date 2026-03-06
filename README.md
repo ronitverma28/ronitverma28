@@ -27,35 +27,6 @@
 
 ---
 
-# 🧠 Backend Engineering Focus
-
-I focus on building **scalable and secure backend systems** using modern Java backend technologies.
-
-### Backend Development
-- Java
-- Spring Boot
-- REST API Development
-- Spring Security
-- JWT Authentication
-
-### Database & Persistence
-- MySQL
-- JPA / Hibernate
-- Relational Database Design
-
-### Backend Architecture
-- Layered Architecture (Controller → Service → Repository)
-- API Design Principles
-- Backend System Design Basics
-
-### Tools & Development
-- Git & GitHub
-- Docker
-- Postman
-- Maven
-
----
-
 # ⚙️ Backend Tech Stack
 
 <p align="center">
